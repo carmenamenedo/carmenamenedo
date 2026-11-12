@@ -1,40 +1,65 @@
 # Hi, I'm Carmen 👋
 
-🎓 Mathematics & Economics graduate currently pursuing an MSc in Big Data & Artificial Intelligence.
+🎓 Mathematics & Economics graduate currently pursuing an **MSc in Big Data & Artificial Intelligence**.
 
 💼 Junior Solutions Engineer  
-📊 Interested in Data Analytics, Artificial Intelligence and Big Data.
+📊 Interested in **Data Analytics, Big Data and Artificial Intelligence**
 
-## 🚀 About me
+## 🚀 About Me
 
 - 🎓 Background in Mathematics & Economics
-- 📚 MSc in Big Data & Artificial Intelligence
+- 📚 Currently pursuing an MSc in Big Data & Artificial Intelligence
 - 💼 Working as a Junior Solutions Engineer
-- 🐍 Currently developing my skills in Python and Data Analytics
-- 🚀 Building this GitHub portfolio with projects from my Master's degree
+- 💻 Developing projects across different Data & AI technologies
+- 🚀 Building this portfolio to showcase practical projects developed throughout my Master's degree
 
 ## 🛠️ Technologies & Tools
 
-- Python
-- Pandas
-- Matplotlib
-- Power BI
-- Data Analysis
-- Artificial Intelligence
+**Currently working with:**
+
+- 🐍 Python
+- 📊 R
+- 🐼 Pandas
+- 📈 Matplotlib
+- 🧹 Tidyverse
+- 📊 ggplot2
+- 📈 Power BI
+
+**Coming next:** Big Data, Machine Learning and Artificial Intelligence technologies as I progress through my MSc.
 
 ## 📂 Featured Projects
 
-### 📊 [Python CSV Statistics](https://github.com/carmenamenedo/python-csv-statistics)
+### 🐍 [Python CSV Statistics](https://github.com/carmenamenedo/python-csv-statistics)
 
-CSV data analysis project developed with Python, Pandas and Matplotlib.
+Statistical analysis tool for CSV datasets developed with **Python, Pandas and Matplotlib**.
 
-The project includes:
-- CSV data processing
-- Missing value handling
 - Numerical and categorical data analysis
+- Missing value handling
 - Descriptive statistics
+- Automatic variable type detection
 - Data visualization
+
+### 🚲 [Bike Traffic Data Analysis with R](https://github.com/carmenamenedo/r-bike-data-analysis)
+
+Exploratory data analysis and data wrangling project developed with **R and Tidyverse** using bicycle traffic data.
+
+- Data cleaning and transformation
+- Wide-to-long data reshaping
+- Date processing with `lubridate`
+- Missing value analysis
+- Grouped data analysis
+- Data visualization
+
+## 🌱 Currently Learning
+
+Expanding my technical skills through projects in:
+
+`Data Analytics` · `Big Data` · `Artificial Intelligence` · `Machine Learning`
+
+New projects will be added as I progress through the MSc.
 
 ---
 
-📫 You can also find me on LinkedIn.
+### 📫 Let's Connect
+
+Feel free to explore my repositories and follow my progress in Data & AI.
