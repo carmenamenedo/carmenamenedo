@@ -10,34 +10,54 @@
 - 🎓 Background in Mathematics & Economics
 - 📚 Currently pursuing an MSc in Big Data & Artificial Intelligence
 - 💼 Working as a Junior Solutions Engineer
-- 💻 Developing projects across different Data & AI technologies
-- 🚀 Building this portfolio to showcase practical projects developed throughout my Master's degree
+- 💻 Building hands-on projects across Data, Big Data and AI technologies
+- 🚀 Using this GitHub portfolio to document my technical development throughout the MSc
 
 ## 🛠️ Technologies & Tools
 
-**Currently working with:**
+### Programming & Data
+`Python` · `R` · `Pandas` · `Tidyverse` · `Matplotlib` · `ggplot2`
 
-- 🐍 Python
-- 📊 R
-- 🐼 Pandas
-- 📈 Matplotlib
-- 🧹 Tidyverse
-- 📊 ggplot2
-- 📈 Power BI
+### Big Data
+`Hadoop` · `HDFS` · `MapReduce` · `YARN`
 
-**Coming next:** Big Data, Machine Learning and Artificial Intelligence technologies as I progress through my MSc.
+### Systems
+`Linux` · `Bash` · `Shell Scripting`
+
+### Tools & Platforms
+`HUE` · `Cloudera Manager` · `Power BI` · `GitHub`
 
 ## 📂 Featured Projects
 
-### 🐍 [Python CSV Statistics](https://github.com/carmenamenedo/python-csv-statistics)
+### 🐘 [Hadoop Benchmarking](https://github.com/carmenamenedo/hadoop-benchmarking)
 
-Statistical analysis tool for CSV datasets developed with **Python, Pandas and Matplotlib**.
+Distributed processing and performance analysis on a Hadoop cluster using **HDFS, MapReduce, TeraSort and TestDFSIO**.
 
-- Numerical and categorical data analysis
-- Missing value handling
-- Descriptive statistics
-- Automatic variable type detection
-- Data visualization
+- Worked with a real distributed Hadoop cluster
+- Generated and sorted ~4 GB datasets
+- Analyzed Map and Reduce task execution
+- Benchmarked different levels of parallelism
+- Evaluated HDFS write performance
+- Monitored jobs using HUE and Cloudera Manager
+
+**TeraSort:** `67.00 s → 37.97 s` when increasing reducers from 1 to 8.
+
+---
+
+### 🐧 [Linux & Bash System Fundamentals](https://github.com/carmenamenedo/linux-bash-system-fundamentals)
+
+Linux and Bash project focused on **shell scripting, processes, system resources and performance analysis**.
+
+- Linux command-line tools
+- Bash scripting
+- Process and resource management
+- CPU affinity and memory limits
+- Task scheduling with `cron`
+- Sequential vs. parallel execution
+
+**Performance experiment:** `14.080 s → 8.213 s` using parallel execution.
+
+---
 
 ### 🚲 [Bike Traffic Data Analysis with R](https://github.com/carmenamenedo/r-bike-data-analysis)
 
@@ -50,16 +70,32 @@ Exploratory data analysis and data wrangling project developed with **R and Tidy
 - Grouped data analysis
 - Data visualization
 
+---
+
+### 🐍 [Python CSV Statistics](https://github.com/carmenamenedo/python-csv-statistics)
+
+Statistical analysis tool for CSV datasets developed with **Python, Pandas and Matplotlib**.
+
+- Numerical and categorical data analysis
+- Missing value handling
+- Descriptive statistics
+- Automatic variable type detection
+- Data visualization
+
 ## 🌱 Currently Learning
 
-Expanding my technical skills through projects in:
+Continuing to expand my skills through hands-on projects in:
 
-`Data Analytics` · `Big Data` · `Artificial Intelligence` · `Machine Learning`
+`Big Data` · `Machine Learning` · `Artificial Intelligence` · `Data Engineering`
 
-New projects will be added as I progress through the MSc.
+New technologies and projects will be added as I progress through the MSc.
+
+## 🎯 Portfolio Goal
+
+My goal is to build a practical portfolio that shows my progression across the different layers of the Data & AI ecosystem — from programming and data analysis to operating systems, distributed computing and artificial intelligence.
 
 ---
 
 ### 📫 Let's Connect
 
-Feel free to explore my repositories and follow my progress in Data & AI.
+Feel free to explore my repositories and follow my progress in **Data, Big Data & AI**.
