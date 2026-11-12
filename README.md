@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Carmen 👋
 
-<!--
-**carmenamenedo/carmenamenedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics & Economics graduate currently pursuing an MSc in Big Data & Artificial Intelligence.
 
-Here are some ideas to get you started:
+💼 Junior Solutions Engineer  
+📊 Interested in Data Analytics, Artificial Intelligence and Big Data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+
+- 🎓 Background in Mathematics & Economics
+- 📚 MSc in Big Data & Artificial Intelligence
+- 💼 Working as a Junior Solutions Engineer
+- 🐍 Currently developing my skills in Python and Data Analytics
+- 🚀 Building this GitHub portfolio with projects from my Master's degree
+
+## 🛠️ Technologies & Tools
+
+- Python
+- Pandas
+- Matplotlib
+- Power BI
+- Data Analysis
+- Artificial Intelligence
+
+## 📂 Featured Projects
+
+### 📊 [Python CSV Statistics](https://github.com/carmenamenedo/python-csv-statistics)
+
+CSV data analysis project developed with Python, Pandas and Matplotlib.
+
+The project includes:
+- CSV data processing
+- Missing value handling
+- Numerical and categorical data analysis
+- Descriptive statistics
+- Data visualization
+
+---
+
+📫 You can also find me on LinkedIn.
