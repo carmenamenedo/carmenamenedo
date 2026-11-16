@@ -3,7 +3,7 @@
 🎓 Mathematics & Economics graduate currently pursuing an **MSc in Big Data & Artificial Intelligence**.
 
 💼 Junior Solutions Engineer  
-📊 Interested in **Data Analytics, Big Data and Artificial Intelligence**
+📊 Interested in **Data Analytics, Big Data, Data Engineering & Artificial Intelligence**
 
 ## 🚀 About Me
 
@@ -11,6 +11,7 @@
 - 📚 Currently pursuing an MSc in Big Data & Artificial Intelligence
 - 💼 Working as a Junior Solutions Engineer
 - 💻 Building hands-on projects across Data, Big Data and AI technologies
+- ⚡ Currently working with distributed processing technologies such as Hadoop and Apache Spark
 - 🚀 Using this GitHub portfolio to document my technical development throughout the MSc
 
 ## 🛠️ Technologies & Tools
@@ -18,22 +19,37 @@
 ### Programming & Data
 `Python` · `R` · `Pandas` · `Tidyverse` · `Matplotlib` · `ggplot2`
 
-### Big Data
-`Hadoop` · `HDFS` · `MapReduce` · `YARN`
+### Big Data & Data Engineering
+`Apache Hadoop` · `HDFS` · `MapReduce` · `YARN` · `Apache Spark` · `PySpark` · `Spark SQL` · `Parquet`
 
 ### Systems
 `Linux` · `Bash` · `Shell Scripting`
 
 ### Tools & Platforms
-`HUE` · `Cloudera Manager` · `Power BI` · `GitHub`
+`HUE` · `Cloudera Manager` · `Jupyter Notebook` · `Power BI` · `GitHub`
 
 ## 📂 Featured Projects
 
+### ⚡ [PySpark Data Processing](https://github.com/carmenamenedo/pyspark-data-processing)
+
+Distributed data processing and performance analysis using **Apache Spark and PySpark**.
+
+- RDD transformations and actions
+- Statistical analysis with distributed datasets
+- Spark SQL and DataFrames
+- Processing sensor data
+- Aggregations, joins and unions
+- CSV vs Parquet performance comparison
+
+**Performance result:** CSV `~33.09 s` → Parquet `~10.22 s`
+
+---
+
 ### 🐘 [Hadoop Benchmarking](https://github.com/carmenamenedo/hadoop-benchmarking)
 
-Distributed processing and performance analysis on a Hadoop cluster using **HDFS, MapReduce, TeraSort and TestDFSIO**.
+Distributed processing and benchmarking on a Hadoop cluster using **HDFS, MapReduce, TeraSort and TestDFSIO**.
 
-- Worked with a real distributed Hadoop cluster
+- Worked with a distributed Hadoop cluster
 - Generated and sorted ~4 GB datasets
 - Analyzed Map and Reduce task execution
 - Benchmarked different levels of parallelism
@@ -53,7 +69,7 @@ Linux and Bash project focused on **shell scripting, processes, system resources
 - Process and resource management
 - CPU affinity and memory limits
 - Task scheduling with `cron`
-- Sequential vs. parallel execution
+- Sequential vs parallel execution
 
 **Performance experiment:** `14.080 s → 8.213 s` using parallel execution.
 
@@ -61,11 +77,11 @@ Linux and Bash project focused on **shell scripting, processes, system resources
 
 ### 🚲 [Bike Traffic Data Analysis with R](https://github.com/carmenamenedo/r-bike-data-analysis)
 
-Exploratory data analysis and data wrangling project developed with **R and Tidyverse** using bicycle traffic data.
+Exploratory data analysis and data wrangling project developed with **R and Tidyverse**.
 
 - Data cleaning and transformation
 - Wide-to-long data reshaping
-- Date processing with `lubridate`
+- Date processing
 - Missing value analysis
 - Grouped data analysis
 - Data visualization
@@ -86,13 +102,13 @@ Statistical analysis tool for CSV datasets developed with **Python, Pandas and M
 
 Continuing to expand my skills through hands-on projects in:
 
-`Big Data` · `Machine Learning` · `Artificial Intelligence` · `Data Engineering`
+`Data Engineering` · `Big Data` · `Machine Learning` · `Artificial Intelligence`
 
 New technologies and projects will be added as I progress through the MSc.
 
 ## 🎯 Portfolio Goal
 
-My goal is to build a practical portfolio that shows my progression across the different layers of the Data & AI ecosystem — from programming and data analysis to operating systems, distributed computing and artificial intelligence.
+My goal is to build a practical portfolio that shows my progression across the Data & AI ecosystem — from programming and data analysis to operating systems, distributed computing, data engineering and artificial intelligence.
 
 ---
 
